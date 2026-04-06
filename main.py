@@ -60,7 +60,7 @@ def save_exit_survey(first_name, last_name, time_spent_seconds, rating, nav_ease
         })
 
 # Config
-API_KEY  = "d4eae62fbb0afd2439b58b8c1b153af2"
+API_KEY  = "****"
 BASE_URL = "https://api.themoviedb.org/3"
 POSTER_URL = "https://image.tmdb.org/t/p/w500"
 
